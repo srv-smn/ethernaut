@@ -58,3 +58,10 @@ contract Fallback {
 }
 
 ```
+
+************************************* Solution  **************************************
+
+steps :
+1. call contribute function with msg.value < 0.001 ether.
+2. now send some funds to contract through your wallet .
+3. now you are the owner.
