@@ -54,3 +54,7 @@ contract Fallout {
 }
 
 ```
+******** Solution *******
+
+steps :
+ 1. call fal1out() function. It will change the ownership.
